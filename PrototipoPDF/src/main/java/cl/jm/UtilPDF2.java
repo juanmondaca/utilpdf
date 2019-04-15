@@ -150,7 +150,7 @@ public class UtilPDF2 {
     	PDPage pagina	=	new PDPage();
     	
     	
-    	String tituloPrincipal			=	"Acontecimientos Nacionales Informe Presidencial";
+    	String tituloPrincipal			=	"Acontecimientos Nacionales Informe Principal";
     	String tituloCriticidadAlta		=	"Criticidad Alta : ";
     	String tituloCriticidadMedia	=	"Criticidad Media : ";
     	String tituloCriticidadBaja		=	"Criticidad Baja : ";
