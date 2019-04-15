@@ -328,7 +328,7 @@ public class UtilPDF2 {
         	numeroCaracteres += 30;
         	coordenadaY	-= 10;
     	}
-    	/*
+    	
     	areaContenido.beginText();
     	areaContenido.newLineAtOffset(xInicial, coordenadaY);
     	areaContenido.showText("Texto inicial primer rectangulo");
@@ -340,7 +340,7 @@ public class UtilPDF2 {
     	areaContenido.newLineAtOffset(xInicial, coordenadaY);
     	areaContenido.showText("Texto secundario primer rectangulo");
     	areaContenido.endText();
-    	*/
+    	
     	
     	
     	
